@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="flink-learning-examples" />
+        <module name="flink-learning-project-real-time-computing-platform" />
+        <module name="flink-learning-sql-blink" />
+        <module name="flink-learning-connectors-hive-2.2.0" />
+        <module name="flink-learning-connectors-activemq" />
+        <module name="flink-learning-connectors-rocketmq" />
+        <module name="flink-learning-monitor-common" />
+        <module name="flink-learning-core" />
+        <module name="flink-learning-connectors-akka" />
+        <module name="flink-learning-sql-common" />
+        <module name="flink-learning-connectors-jdbc" />
+        <module name="flink-learning-connectors-kudu" />
+        <module name="flink-learning-connectors-hbase1.4" />
+        <module name="flink-learning-project-monitor-dashboard" />
+        <module name="flink-learning-monitor-pvuv" />
+        <module name="flink-learning-project-common" />
+        <module name="flink-learning-connectors-kafka" />
+        <module name="flink-learning-connectors-clickhouse" />
+        <module name="flink-learning-project-monitor-alert" />
+        <module name="flink-learning-connectors-mysql" />
+        <module name="flink-learning-monitor-collector" />
+        <module name="flink-gmx-project" />
+        <module name="flink-learning-libraries-state-processor-api" />
+        <module name="flink-learning-template" />
+        <module name="flink-learning-project-risk-management" />
+        <module name="flink-learning-window" />
+        <module name="flink-learning-data-sinks" />
+        <module name="flink-learning-connectors-hive-1.2.2" />
+        <module name="flink-learning-connectors-gcp-pubsub" />
+        <module name="flink-learning-libraries-machine-learning" />
+        <module name="flink-learning-connectors-influxdb" />
+        <module name="flink-learning-connectors-flume" />
+        <module name="flink-learning-connectors-pulsar" />
+        <module name="flink-learning-connectors-hive-2.3.6" />
+        <module name="flink-learning-common" />
+        <module name="flink-learning-monitor-storage" />
+        <module name="flink-learning-state" />
+        <module name="flink-learning-connectors-hdfs" />
+        <module name="flink-learning-connectors-hive-3.1.2" />
+        <module name="flink-learning-connectors-redis" />
+        <module name="flink-learning-project-real-time-data-warehouse" />
+        <module name="flink-learning-connectors-nifi" />
+        <module name="flink-learning-connectors-hbase2.2" />
+        <module name="flink-learning-project-log" />
+        <module name="flink-learning-configuration-center-apollo" />
+        <module name="flink-learning-metrics" />
+        <module name="flink-learning-connectors-cassandra" />
+        <module name="flink-learning-libraries-gelly" />
+        <module name="flink-learning-project-deduplication" />
+        <module name="flink-learning-connectors-es6" />
+        <module name="flink-learning-connectors-rabbitmq" />
+        <module name="flink-learning-connectors-es5" />
+        <module name="flink-learning-connectors-es-common" />
+        <module name="flink-learning-connectors-netty" />
+        <module name="flink-learning-connectors-es7" />
+        <module name="flink-learning-monitor-dashboard" />
+        <module name="flink-learning-monitor-alert" />
+        <module name="flink-learning-monitor-log" />
+        <module name="flink-learning-libraries-cep" />
+        <module name="flink-learning-configuration-center-nacos" />
+        <module name="flink-learning-project-flink-job-scaffold" />
+        <module name="flink-learning-data-sources" />
+        <module name="flink-learning-connectors-es-universal" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
